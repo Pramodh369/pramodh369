@@ -32,7 +32,9 @@ const pramodh = {
 - 🔭 I build **end-to-end products** — not just code, but deployed, containerized, CI/CD-backed applications
 - 💬 Ask me about **Socket.IO, WebRTC, Docker, or MongoDB data modeling**
 - 🌱 Constantly leveling up on **system design & scalable architecture**
-- 📫 **pramodheragani@gmail.com**
+- 🌐 Portfolio: **[portfolio1-seven-gules.vercel.app](https://portfolio1-seven-gules.vercel.app/)**
+- 💼 LinkedIn: **[linkedin.com/in/pramodheragani](https://www.linkedin.com/in/pramodheragani/)**
+- 📫 Mail: **pramodheragani@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -129,14 +131,15 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 
 <img src="https://streak-stats.demolab.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
 </div>
 
 <div align="center">
 
 ### 💜 Let's Build Something Great Together
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pramodh369)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio1-seven-gules.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodheragani/)
 [![Gmail](https://img.shields.io/badge/pramodheragani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodheragani@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
