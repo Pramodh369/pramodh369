@@ -133,6 +133,7 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 
 </div>
 
+<div align="center">
 ### 💜 Let's Build Something Great Together
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pramodh369)
